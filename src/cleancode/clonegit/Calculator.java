@@ -1,3 +1,5 @@
+package cleancode.clonegit;
+
 public class Calculator {
 
     public static int calculate(int a, int b, char o) {
